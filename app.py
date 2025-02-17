@@ -1,10 +1,6 @@
-print("Hello World")
-print("hi iam sajid ali\ and iam 28 year old from karachi.")
-a = 110
-print(a)
-a1 = 14
-b = "sajid"
-print(b)
-c = True
-d = None
-print(a + a1)
+
+#snake case
+time_of_day: str = "morning"
+if time_of_day == "morning":
+    print("good morning")
+print ("how are you")
